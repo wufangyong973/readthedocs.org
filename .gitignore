@@ -11,7 +11,6 @@
 coverage.xml
 .idea
 .vagrant
-.vscode
 .tox
 .env
 .rope_project/
@@ -84,3 +83,7 @@ dev.db-journal
 /readthedocs/settings/celery_docker.py
 /readthedocs/settings/proxito_docker.py
 /readthedocs/settings/web_docker.py
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
